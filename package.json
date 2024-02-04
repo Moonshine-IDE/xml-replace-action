@@ -1,6 +1,6 @@
 {
   "name": "xml-replace-action",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Simple github action to replace a value in a xml config file",
   "main": "index.js",
   "type": "module",
@@ -16,6 +16,6 @@
     "xpath": "^0.0.33"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=20.0.0"
   }
 }
